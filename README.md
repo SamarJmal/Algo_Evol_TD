@@ -17,3 +17,7 @@ Résultat : circuit 1-2-4-5-6-7-3-8-1, longueur 98.
 
 3) Algorithme génétique
 <img width="1919" height="1022" alt="Execution Ex3_Algo Genetique" src="https://github.com/user-attachments/assets/aa2cd639-3984-4029-89ea-b3385f830577" />
+
+TD3_Cédule_de_maintenance
+<img width="1919" height="1025" alt="Capture d&#39;écran 2026-11-08 163818" src="https://github.com/user-attachments/assets/2855334d-4edc-4085-b636-e06581ff20c2" />
+
